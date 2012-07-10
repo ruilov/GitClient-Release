@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Unknown</string>
+	<key>Buffer Order</key>
+	<array>
+		<string>Stack</string>
+		<string>Table</string>
+		<string>PositionObj</string>
+		<string>RectObj</string>
+		<string>Button</string>
+		<string>Panel</string>
+		<string>TextElem</string>
+		<string>TextBanner</string>
+		<string>TextButton</string>
+		<string>Textbox</string>
+		<string>AppleHourGlass</string>
+		<string>AppleSimpleArrow</string>
+		<string>AppleSelector</string>
+		<string>AppleTextbox</string>
+		<string>AppleMultiText</string>
+		<string>AppleScreen</string>
+		<string>Base64</string>
+		<string>Json</string>
+		<string>Differ</string>
+		<string>ProjectLoader</string>
+		<string>GitClient</string>
+		<string>StartScreen</string>
+		<string>RepoScreen</string>
+		<string>CommitsScreen</string>
+		<string>FilesScreen</string>
+		<string>DiffScreen</string>
+		<string>PushScreen</string>
+		<string>PullScreen</string>
+		<string>IO</string>
+		<string>Main</string>
+	</array>
+	<key>Created</key>
+	<string>2012-05-27 23:20:01 +0000</string>
+	<key>Description</key>
+	<string>No description available</string>
+</dict>
+</plist>
