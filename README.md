@@ -60,12 +60,12 @@ otherwise the Codea tool will break. The mental model is one repo per project.
 
 <b> Users </b>
 
-The start screen will ask for a GitHub username. The user doesn't have to be you - if you choose another user, you will be able to download their repos but obviously not be able to upload code without their password. There currently is no way to fork, do pull requests, etc.
+The start screen will ask for a GitHub username. The user doesn't have to be you - if you choose another user, you will be able to download their repos, but obviously not be able to upload code without their password. There currently is no way to fork, do pull requests, etc.
 
 <b> Connect a project to a repo</b>
 
 In the second screen you need to enter the name of the Codea project and choose one of the repos. 
-Once you've done this the start screen will show a quick access link for this project/repo pair so that you don't have to type the name of the project every time you run the tool.
+Once you've done this the start screen will show a quick access link for this project/repo pair, so that you don't have to type the name of the project every time you run the tool.
 
 <b> Revisions </b>
 
@@ -73,7 +73,7 @@ The next screen will show the latest few revisions of the repo. You will typical
 
 <b> File List </b>
 
-The next screen will give your the optiosn to `Push to repo` and `Pull from repo` as well as a list of files. `Push to repo` uploads to GitHub and `Pull from repo` downloads to Codea.
+The next screen will give your the options to `Push to repo` and `Pull from repo` as well as a list of files. `Push to repo` uploads to GitHub and `Pull from repo` downloads to Codea.
 
 <b> Diffs </b>
 
