@@ -1,5 +1,5 @@
 -- Stack.lua
-NO_IMPORT = true
+
 -- a generic stack class. Piles of blocks are stacks. 
 -- Also used to keep track of the user program stack
 
