@@ -18,7 +18,7 @@ Passwords - READ THIS
 ------------------------------
 
 I've only implemented what GitHub calls 'Basic Authentication'. 
-This means that your username and password are sent in clear text and can be easily stolen.
+Your username and password will be sent in clear text and can be easily stolen.
 
 I don't feel comfortable with that, but it was much simpler than implementing OAuth authentication.
 Before using this tool I changed my own password to something I don't care about if it gets stolen. I suggest you do the same.
@@ -38,7 +38,7 @@ How to Install
 The Sandbox
 ---------------------------
 
-The LuaSandbox.lua file removes all restrictions on what Codea programs can do. I needed to this to be able to read/write project contents from within Codea.
+The LuaSandbox.lua file removes all restrictions on what Codea programs can do. I needed to do this to be able to read/write project contents from within Codea.
 
 As a bonus, I've also included my implementation of the `import` function in the LuaSandbox file. 
 You can now import a codea project from another project, making life much easier if you have libraries that you'd like to re-use in many Codea project. 
@@ -55,8 +55,8 @@ How to Use
 Unfortunately I could not figure out how to create Codea projects programatically. Nor could I figure out how to create GitHub repos programatically either. 
 I guess there's some order to the world.
 
-To start using the tool, you first need to have a Codea project and a GitHub repo. The GitHub repo needs to contain at least one file (example: the README file),
-otherwise the Codea tool will break. The mental model is one repo per project. 
+To start using the tool, you first need to have a Codea project and a GitHub repo. The mental model is one repo per project. 
+The GitHub repo needs to contain at least one file (example: the README file), otherwise the Codea tool will break. 
 
 <b> Users </b>
 
