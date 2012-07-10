@@ -99,3 +99,5 @@ Only a very minimal set of the GitHub API is used. I implemented features that I
 If you'd like to add features, let me know. That would be super useful. 
 
 Implementing repo file deletion is on my to-do, but may require re-working a bunch of the code. Also implementing OAuth authentication would be great.
+
+I've also noticed slowness or even freezing when you do commits that are too large.
