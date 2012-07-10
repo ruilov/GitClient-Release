@@ -25,6 +25,7 @@ Before using this tool I changed my own password to something I don't care about
 
 Note that passwords are only required for making commits. 
 
+
 How to Install
 ----------------------------
 
