@@ -92,6 +92,16 @@ You can also select only a subset of the files to push or pull. By default, all 
 
 A current limitation: you cannot delete files from the GitHub repo, even if they have been removed from the Codea project.
 
+Tips
+------------------------------
+
+When working on a project, add `import("GitClient")` to the bottom of the last tab (assuming that's what you called the project where you downloaded this tool).
+Now when you run your project, it will instead run the GitHub client. 
+
+This is useful if you don't like switching back-and-forth from the GitHub client to your project. 
+The downside is that it will commit your project with the `import` statement in there. 
+Maybe I'll add a little hack to the GitClient that removes imports of the GitClient itself from the commited version.
+
 Contributing
 -------------------------------
 
