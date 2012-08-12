@@ -29,8 +29,8 @@ How to Install
 ----------------------------
 
 1. [Download] (https://github.com/ruilov/GitClient-Release/downloads) this repo
-2. Create a project called `GitHub` in Codea (call it whatever you want, I don't care)
-3. Close Codea: double click the Home bottom, press the Codea icon for a few seconds, and then close it. 
+2. Create a project called `GitHub` in Codea (or call it whatever you want)
+3. Close Codea: double click the Home button, press the Codea icon for a few seconds, and then close it. 
 4. Connect your iPad to your computer. I do this in Windows using [iExplorer] (http://www.macroplant.com/iexplorer/)
 5. In your iPad, navigate to `Apps/com.twolivesleft.Codify/Codea.app` and copy the file [LuaSandbox.lua](https://github.com/ruilov/GitClient-Release/blob/master/LuaSandbox.lua) from the repo into this directory
 6. In your iPad, navigate to `Apps/com.twolivesleft.Codify/Documents/GitHub` and copy the rest of the repo files in there
